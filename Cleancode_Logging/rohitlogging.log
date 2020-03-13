@@ -1,0 +1,52 @@
+2020-03-13 10:14:37 INFO  InterestCalculation:9 -3600.0
+2020-03-13 10:14:37 ERROR InterestCalculation:10 -There will be corrrection
+2020-03-13 10:14:37 WARN  InterestCalculation:11 -there is something wrong in code
+2020-03-13 10:14:37 FATAL InterestCalculation:12 -there is any case of abort
+2020-03-13 10:14:37 INFO  InterestCalculation:18 -56702.400462486534
+2020-03-13 10:14:37 ERROR InterestCalculation:19 -There will be corrrection
+2020-03-13 10:14:37 WARN  InterestCalculation:20 -there is something wrong in code
+2020-03-13 10:14:37 FATAL InterestCalculation:21 -there is any case of abort
+2020-03-13 10:15:22 INFO  InterestCalculation:9 -3600.0
+2020-03-13 10:15:22 ERROR InterestCalculation:10 -There will be corrrection
+2020-03-13 10:15:22 WARN  InterestCalculation:11 -there is something wrong in code
+2020-03-13 10:15:22 FATAL InterestCalculation:12 -there is any case of abort
+2020-03-13 10:15:22 INFO  InterestCalculation:18 -56702.400462486534
+2020-03-13 10:15:22 ERROR InterestCalculation:19 -There will be corrrection
+2020-03-13 10:15:22 WARN  InterestCalculation:20 -there is something wrong in code
+2020-03-13 10:15:22 FATAL InterestCalculation:21 -there is any case of abort
+2020-03-13 10:18:45 INFO  InterestCalculation:12 -12000.0
+2020-03-13 10:18:45 INFO  InterestCalculation:21 -45000.0
+2020-03-13 10:18:45 INFO  InterestCalculation:32 -72000.0
+2020-03-13 10:18:45 ERROR InterestCalculation:33 -There will be corrrection
+2020-03-13 10:18:45 WARN  InterestCalculation:34 -there is something wrong in code
+2020-03-13 10:18:45 FATAL InterestCalculation:35 -there is any case of abort
+2020-03-13 10:18:45 INFO  InterestCalculation:32 -50000.0
+2020-03-13 10:18:45 ERROR InterestCalculation:33 -There will be corrrection
+2020-03-13 10:18:45 WARN  InterestCalculation:34 -there is something wrong in code
+2020-03-13 10:18:45 FATAL InterestCalculation:35 -there is any case of abort
+2020-03-13 10:18:45 INFO  InterestCalculation:9 -3600.0
+2020-03-13 10:18:45 ERROR InterestCalculation:10 -There will be corrrection
+2020-03-13 10:18:45 WARN  InterestCalculation:11 -there is something wrong in code
+2020-03-13 10:18:45 FATAL InterestCalculation:12 -there is any case of abort
+2020-03-13 10:18:45 INFO  InterestCalculation:18 -56702.400462486534
+2020-03-13 10:18:45 ERROR InterestCalculation:19 -There will be corrrection
+2020-03-13 10:18:45 WARN  InterestCalculation:20 -there is something wrong in code
+2020-03-13 10:18:45 FATAL InterestCalculation:21 -there is any case of abort
+2020-03-13 10:18:59 INFO  InterestCalculation:12 -12000.0
+2020-03-13 10:18:59 INFO  InterestCalculation:21 -45000.0
+2020-03-13 10:18:59 INFO  InterestCalculation:32 -72000.0
+2020-03-13 10:18:59 ERROR InterestCalculation:33 -There will be corrrection
+2020-03-13 10:18:59 WARN  InterestCalculation:34 -there is something wrong in code
+2020-03-13 10:18:59 FATAL InterestCalculation:35 -there is any case of abort
+2020-03-13 10:18:59 INFO  InterestCalculation:32 -50000.0
+2020-03-13 10:18:59 ERROR InterestCalculation:33 -There will be corrrection
+2020-03-13 10:18:59 WARN  InterestCalculation:34 -there is something wrong in code
+2020-03-13 10:18:59 FATAL InterestCalculation:35 -there is any case of abort
+2020-03-13 10:18:59 INFO  InterestCalculation:9 -3600.0
+2020-03-13 10:18:59 ERROR InterestCalculation:10 -There will be corrrection
+2020-03-13 10:18:59 WARN  InterestCalculation:11 -there is something wrong in code
+2020-03-13 10:18:59 FATAL InterestCalculation:12 -there is any case of abort
+2020-03-13 10:18:59 INFO  InterestCalculation:18 -56702.400462486534
+2020-03-13 10:18:59 ERROR InterestCalculation:19 -There will be corrrection
+2020-03-13 10:18:59 WARN  InterestCalculation:20 -there is something wrong in code
+2020-03-13 10:18:59 FATAL InterestCalculation:21 -there is any case of abort
